@@ -18,6 +18,7 @@ Here is a list of design systems (also called UI kits / style guides / design pa
 * [IBM - Design Language](https://www.ibm.com/design/language/)
 * [MailChimp - Style Guide](https://styleguide.mailchimp.com/)
 * [Shopify - Polaris](https://polaris.shopify.com/)
+* [Salesforce - Lightening Design Systems](https://www.lightningdesignsystem.com/)
 
 
 ## Other resources
